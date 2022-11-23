@@ -7,7 +7,6 @@ def cb(request, response):
         request.age = 19
     else:
         response.age = 255
-
     return response
 
 rclpy.init()
