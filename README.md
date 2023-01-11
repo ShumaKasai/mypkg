@@ -2,7 +2,16 @@
 
 ![test](https://github.com/ShumaKasai/mypkg/actions/workflows/test.yml/badge.svg)
 
-ロボットシステム学の練習用リポジトリ
+ロボットシステム学で作成したROS2のパッケージ
+
+## ブランチ
+- main
+  - lesson9,10を除くlesson11までの内容
+  
+- lesson10
+  - lesson10までの内容
+  - テスト済み
+  
 
 ## ライセンス
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.  
