@@ -1,4 +1,6 @@
-import launch
+# SPDX-FileCopyrightText: 2022 Shuma Kasai
+# SPDX-License-Indentifier: BSD-3-Clause
+
 import launch.actions
 import launch.substitutions
 import launch_ros.actions
