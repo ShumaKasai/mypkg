@@ -36,11 +36,16 @@ $ ros2 run mypkg listener
 talkerノードとlistenerノードを同時に実行する
 ```
 $ ros2 launch mypkg talk_listen.launch.py
-~~~~
+~~中略~~
 [listener-2] [INFO] [1673428827.268510600] [listener]: Listen: 0
 [listener-2] [INFO] [1673428827.756041800] [listener]: Listen: 1
 [listener-2] [INFO] [1673428828.256801700] [listener]: Listen: 2
 ```
+
+## ノードとトピック
+![image](https://github.com/ShumaKasai/mypkg/blob/c075d805d7858221e7ebf3c5b26e8e90f25bd92c/ROS2_mypkg.png)
+- talker・・・0.5秒おきに、カウントアップした値を/countupへ送信する
+- listener・・・/countupに来た値を表示する
 
 ## ライセンス
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.  
