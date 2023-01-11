@@ -1,6 +1,6 @@
 # robosys2022_mypkg
 
-![test](https://github.com/ShumaKasai/mypkg/actions/workflows/test.yml/badge.svg)
+ ![test](https://github.com/ShumaKasai/mypkg/actions/workflows/test.yml/badge.svg?branch=lesson10)
 
 ロボットシステム学で作成したROS2のパッケージ
 
@@ -10,8 +10,7 @@
   
 - lesson10
   - lesson10までの内容
-  - テスト済み[![test](https://github.com/ShumaKasai/mypkg/actions/workflows/test.yml/badge.svg?branch=lesson10)](https://github.com/ShumaKasai/mypkg/actions/workflows/test.yml)
-  
+  - テスト済み  
 
 ## ライセンス
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.  
