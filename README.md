@@ -10,7 +10,7 @@
   
 - lesson10
   - lesson10までの内容
-  - テスト済み
+  - テスト済み[![test](https://github.com/ShumaKasai/mypkg/actions/workflows/test.yml/badge.svg?branch=lesson10)](https://github.com/ShumaKasai/mypkg/actions/workflows/test.yml)
   
 
 ## ライセンス
