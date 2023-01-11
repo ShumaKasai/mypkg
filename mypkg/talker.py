@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Shuma Kasai
+# SPDX-License-Indentifier: BSD-3-Clause
+
 import rclpy
 from rclpy.node import Node
 from person_msgs.msg import Query
