@@ -33,7 +33,7 @@ $ ros2 run mypkg listener
 ```
 
 ### talk_listen.launch.py
-talker.pyとlistener.pyを同時に実行する
+talkerノードとlistenerノードを同時に実行する
 ```
 $ ros2 launch mypkg talk_listen.launch.py
 ~~~~
