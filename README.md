@@ -10,7 +10,8 @@
   
 - lesson10
   - lesson10までの内容
-  - テスト済み  
+  - 授業内で作ったメッセージ型の[パッケージ](https://github.com/ShumaKasai/ROS2_person_msgs.git)
+  - テスト済み
 
 ## ライセンス
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.  
